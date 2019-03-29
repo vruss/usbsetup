@@ -11,10 +11,10 @@ Boot your PC with **only** your bootable USB plugged in and launch into a live e
 #### Important 
 When choosing what drive to install to, choose your USB and make sure you use **customized** partitioning. 
 
-1. Make a 500 MB /boot/efi partition
-2. Make a 4 000 MB swap partition
-3. Make a 16 000 MB /home partition
-4. The rest can go to the root / partition
+1. Make a 500 MB /boot/efi partition (FAT type)
+2. Make a 4 000 MB swap partition (swap type)
+3. Make a 16 000 MB /home partition (EXT4 type)
+4. The rest can go to the root / partition (EXT4 type)
 
 ## Post installation
 These instructions are for customizing your setup, and adding some quality of life tools.
