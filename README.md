@@ -20,6 +20,10 @@ When choosing what drive to install to, choose your USB and make sure you use **
 These instructions are for customizing your setup, and adding some quality of life tools.
 
 ### Highly recommended
+- Install **g++** and other building tools:
+```bash
+sudo dnf install qt-devel cmake
+```
 - Install **GNOME-TWEAKS** to unlock all gnome customizations
 - Install the **zsh** shell with the **oh-my-zsh** plugin, with the **custom theme** "gitster"
 - - This require a "powerline font" and some configuration. 
