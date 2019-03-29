@@ -24,6 +24,7 @@ These instructions are for customizing your setup, and adding some quality of li
 - Install the **zsh** shell with the **oh-my-zsh** plugin, with the **custom theme** "gitster"
 - - This require a "powerline font" and some configuration. 
 - Disable **Search** in the "Setttings menu" to increase performance. This will stop the indexing of files, but you can still search for installed apps as usual.
+- In GNOME-TWEAKS > Window Titlebars > enable **Minimize** button. Maximize is personal preference.
 
 ### Eye candy
 Install the following GNOME EXTENSIONS:
@@ -32,12 +33,13 @@ Install the following GNOME EXTENSIONS:
 Configure **Activities configurator** to change the topbar look and feel. 
 ![Screenshot](activities_configurator_screenshot.png)
 - **Arc menu** to replace the default top left menu (windows key still open old one)
+- In GNOME-TWEAKS > Top Bar > diable App menu and enable Date / weekday
 
-Install **Plank**, an iOS style app dock launcher, and add it to your startup applications. Plank can be configured by holding Ctrl + right click on the dock.
+Install **Plank**, an iOS style app dock launcher, and add it to your startup applications in GNOME-TWEAKS. 
 
 Install the Elementary GTK theme and the Elementary Plank theme:
 ```bash
 sudo dnf install elementary-theme
 sudo dnf install elementary-theme-plank
 ```
-And change theme in GNOME-TWEAKS > Appearance > Applications
+And change theme in GNOME-TWEAKS > Appearance > Applications. Plank theme can be configured by holding Ctrl + right click on the dock.
