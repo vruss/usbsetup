@@ -1,6 +1,6 @@
 # A guide for installing and setting up a DISTRO on a USB
 
-#### this guide applies to any distro, especially GNOME based, but it's written for Fedora. Instructions may variy slightly.
+#### this guide applies to any distro, especially GNOME based, but it's written for Fedora. Instructions may vary slightly.
 
 ## Requirements
 You will need **two** USBs. One USB you have to make into a live-cd as you normally do when installing a distro. The second USB is the target media and will be where you install Fedora. 
