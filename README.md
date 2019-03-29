@@ -3,7 +3,7 @@
 #### this guide applies to any distro, especially GNOME based, but it's written for Fedora. Instructions may vary slightly.
 
 ## Requirements
-You will need **two** USBs. One USB you have to make into a live-cd as you normally do when installing a distro. The second USB is the target media and will be where you install Fedora. 
+You will need **two** USBs. One USB you have to make into a live-cd as you normally do when installing a distro. The second USB is the  where you *install* Fedora. 
 
 ## Installing
 Boot your PC with **only** your bootable USB plugged in and launch into a live environment. You should see a dialogue window asking if you want to try or install to hard drive. At this point you plug in your second USB and choose install to hard drive. 
